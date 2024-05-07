@@ -176,7 +176,7 @@
   width: 130px;
   height: 45px;
   color: white;
-  background-color: #d0b200;
+  background-image:linear-gradient();
   border-width: 0;
   border-radius: 8px;
   margin-right: 10px;
@@ -206,7 +206,7 @@
 }
 
 .thanking-customers-section {
-  background-color: #d0b2001a;
+  background-image:radial-gradient(#fff8db, #fae38c);
 }
 
 .thanking-customers-section-heading {
@@ -225,6 +225,11 @@
 .thanking-customers-section-img {
   width: 270px;
   margin-bottom: 20px;
+}
+
+.thanking-customers-section-modal-title {
+  color: #d0b200;
+  font-weight: 800;
 }
 
 .follow-us-section {
